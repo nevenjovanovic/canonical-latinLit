@@ -726,7 +726,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <l n="543">Viribus absumptis expalluit illa citaeque</l>
             <l n="544">victa labore fugae spectans Peneidas undas</l>
             <l n="545">“fer pater” inquit “opem si flumina numen habetis.</l>
-            <l n="546">Qua nimium placui, mutando perde figuram!”</l>
+            <l n="546">Qua nimium placui, <del>tellus aut hisce vel istam</del></l>
+            <l><del>quae facit ut laedar,</del> mutando perde figuram!”</l>
             <milestone ed="P" unit="para"/>
             <l n="547">Vix prece finita torpor gravis occupat artus:</l>
             <l n="548">mollia cinguntur tenui praecordia libro,</l>
@@ -2211,6 +2212,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <l n="248">non etiam sentire canum fera facta suorum.</l>
             <l n="249">Undique circumstant mersisque in corpore rostris</l>
             <l n="250">dilacerant falsi dominum sub imagine cervi.</l>
+            <l><del>nec nisi finita per plurima vulnera vita</del></l>
+            <l><del>ira pharetratae fertur satiata Dianae</del></l>
             <milestone n="251" unit="card"/>
             <milestone ed="Magnus" n="Semele." unit="tale"/>
             <milestone ed="P" unit="para"/>
@@ -3216,9 +3219,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <l n="433">ducit ad infernas per muta silentia sedes.</l>
             <l n="434">Styx nebulas exhalat iners, umbraeque recentes</l>
             <l n="435">descendunt illac simulacraque functa sepulcris.</l>
-            <l n="436">Pallor hiemsque tenent late loca senta, novique,</l>
-            <l n="437">qua sit iter, manes, Stygiam qua ducat ad urbem,</l>
-            <l n="438">ignorant, ubi sit nigri fera regia Ditis.</l>
+            <l n="436"><del>Pallor hiemsque tenent late loca senta, novique,</del></l>
+            <l n="437"><del>qua sit iter, manes, Stygiam qua ducat ad urbem,</del></l>
+            <l n="438"><del>ignorant, ubi sit nigri fera regia Ditis.</del></l>
             <l n="439">Mille capax aditus et apertas undique portas</l>
             <l n="440">urbs habet, utque fretum de tota flumina terra,</l>
             <l n="441">sic omnes animas locus accipit ille, nec ulli</l>
@@ -3626,8 +3629,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <l n="800">dicitur. Aversa est et castos aegide vultus</l>
             <l n="801">nata Iovis texit; neve hoc inpune fuisset,</l>
             <l n="802">Gorgoneum crinem turpes mutavit in hydros.</l>
-            <l n="803">Nunc quoque, ut attonitos formidine terreat hostes,</l>
-            <l n="804">pectore in adverso, quos fecit, sustinet angues.”</l>
+            <l n="803"><del>Nunc quoque, ut attonitos formidine terreat hostes,</del></l>
+            <l n="804"><del>pectore in adverso, quos fecit, sustinet angues.”</del></l>
          </div>
          <div type="textpart" subtype="book" n="5">
             <milestone n="1" unit="card"/>
@@ -6187,7 +6190,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <l n="84">pectora somnus habet: thalamos taciturna paternos</l>
             <l n="85">intrat et (heu facinus!) fatali nata parentem</l>
             <l n="86">crine suum spoliat praedaque potita nefanda</l>
-            <l n="87">fert secum spolium celeris progressaque porta</l>
+            <l n="87"><del>fert secum spolium celeris progressaque porta</del></l>
             <l n="88">per medios hostes (meriti fiducia tanta est)</l>
             <l n="89">pervenit ad regem. Quem sic adfata paventem est:</l>
             <milestone ed="P" unit="para"/>
@@ -7895,7 +7898,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <l n="726">vixque tenens lacrimas “quis me manet exitus” inquit,</l>
             <l n="727">“cognita quam nulli, quam prodigiosa novaeque</l>
             <l n="728">cura tenet Veneris? Si di mihi parcere vellent,</l>
-            <l n="729">parcere debuerant; si non, et perdere vellent,</l>
+            <l n="729"><del>parcere debuerant; si non, et perdere vellent,</del></l>
             <l n="730">naturale malum saltem et de more dedissent.</l>
             <l n="731">Nec vaccam vaccae, nec equas amor urit equarum:</l>
             <l n="732">urit oves aries, sequitur sua femina cervum.</l>
@@ -8861,8 +8864,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <l n="68">amissoque dolens sacrorum vate suorum</l>
             <l n="69">protinus in silvis matres Edonidas omnes,</l>
             <l n="70">quae videre nefas, torta radice ligavit.</l>
-            <l n="71">Quippe pedum digitos, in quantum est quaeque secuta,</l>
-            <l n="72">traxit et in solidam detrusit acumina terram,</l>
+            <l n="71"><del>Quippe pedum digitos, in quantum est quaeque secuta,</del></l>
+            <l n="72"><del>traxit et in solidam detrusit acumina terram,</del></l>
             <l n="73">utque suum laqueis, quos callidus abdidit auceps,</l>
             <l n="74">crus ubi commisit volucris sensitque teneri,</l>
             <l n="75">plangitur ac trepidans adstringit vincula motu:</l>
@@ -9111,7 +9114,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <milestone ed="P" unit="para"/>
             <l n="291">“Forsitan hanc volucrem, rapto quae vivit et omnes</l>
             <l n="292">terret aves, semper pennas habuisse putetis:</l>
-            <l n="293">vir fuit et (tanta est animi constantia!) iam tum</l>
+            <l n="293"><del>vir fuit et (tanta est animi constantia!) iam tum</del></l>
             <l n="294">acer erat belloque ferox ad vimque paratus,</l>
             <l n="295">nomine Daedalion. Illo genitore creatis,</l>
             <l n="296">qui vocat auroram caeloque novissimus exit,</l>
@@ -9572,7 +9575,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <l n="711">maesta locum repetit, de quo spectarat euntem.</l>
             <l n="712">Dumque moratur ibi, dumque “hic retinacula solvit,</l>
             <l n="713">hoc mihi discedens dedit oscula litore” dicit,</l>
-            <l n="714">dumque notata locis reminiscitur acta fretumque</l>
+            <l n="714"><del>dumque notata locis reminiscitur acta fretumque</del></l>
             <l n="715">prospicit: in liquida, spatio distante, tuetur</l>
             <l n="716">nescio quid quasi corpus, aqua. Primoque, quid illud</l>
             <l n="717">esset, erat dubium; postquam paulum appulit unda,</l>
