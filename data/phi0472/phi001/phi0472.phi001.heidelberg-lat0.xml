@@ -108,7 +108,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
 <l n="1"><w>Risi</w> <w>nescio</w> <w>quem</w> <w>modo</w> <w>e</w> <w>corona</w><pc>,</pc></l>
 <l n="2"><w>qui</w><pc>,</pc> <w>cum</w> <w>mirifice</w> <w>Vatiniana</w></l>
 <l n="3"><w>meus</w> <w>crimina</w> <w>Calvus</w> <w>explicasset</w><pc>,</pc></l>
-<l n="4"><w>admirans</w> <w>ait</w> <w>haec</w> <w>manusque</w> <w>tollens</w></l>
+    <l n="4"><w>admirans</w> <w>ait</w> <w>haec</w> <w>manus</w><w>que</w> <w>tollens</w></l>
 <l n="5"><pc>“</pc><w>di</w> <w>magni</w><pc>,</pc> <w>salaputium</w> <w>disertum</w><pc>!</pc><pc>”</pc></l></div>
   <gap resp="NJ" reason="ellipsis"/>
 </div>

@@ -114,7 +114,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
 <l n="1" xml:id="c53.1"><w>Risi</w> <w>nescio</w> <w>quem</w> <w>modo</w> <w>in</w> <w>corona</w><pc>,</pc></l>
 <l n="2"><w>qui</w><pc>,</pc> <w>cum</w> <w>mirifice</w> <w>Vatiniana</w></l>
 <l n="3" xml:id="c53.3"><w>meus</w> <w>crimina</w> <w>Calvus</w> <w>explicasset</w><pc>,</pc></l>
-<l n="4" xml:id="c53.4"><w>admirans</w> <w>ait</w> <w>haec</w><pc>,</pc> <w>manusque</w> <w>tollens</w><pc>:</pc></l>
+    <l n="4" xml:id="c53.4"><w>admirans</w> <w>ait</w> <w>haec</w><pc>,</pc> <w>manus</w><w>que</w> <w>tollens</w><pc>:</pc></l>
 <l n="5" xml:id="c53.5"><w>Dii</w> <w>magni</w><pc>,</pc> <w>salaputium</w> <w>disertum</w><pc>!</pc></l>
             <note n="vl53.1" target="#c53.1">1. E corona affert <ref>Meleager e libro Comelini</ref>, quam
               confirmat <ref>Papyr. Pal.</ref> et <ref>libri editoris Cantabrig.</ref> cui favet etiam <ref>Edit. R.

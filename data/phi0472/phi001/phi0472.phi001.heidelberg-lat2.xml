@@ -112,7 +112,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
 <l n="1" xml:id="c53.1"><w>Risi</w> <w>nescio</w> <w>quem</w> <w>modo</w> <w>et</w> <w>corona</w></l>
 <l n="2"><w>Qui</w> <w>cum</w> <w>mirifice</w> <w>Vaciniana</w></l>
 <l n="3" xml:id="c53.3"><w>Meos</w> <w>crimina</w> <w>caluos</w> <w>explicasset</w></l>
-<l n="4" xml:id="c53.4"><w>Admirans</w> <w>ait</w> <w>hec</w> <w>manusque</w> <w>tollens</w></l>
+    <l n="4" xml:id="c53.4"><w>Admirans</w> <w>ait</w> <w>hec</w> <w>manus</w><w>que</w> <w>tollens</w></l>
 <l n="5" xml:id="c53.5"><w>Dii</w> <w>magni</w>, <w>salappucium</w> <w>desertum</w></l>
     <note n="vl53.1" target="#c53.1">e</note>
     <note n="vl53.2" target="#c53.3">meus</note>
