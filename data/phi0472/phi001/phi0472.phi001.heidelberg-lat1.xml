@@ -110,11 +110,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
 <div type="textpart" subtype="Lyrics">
   <gap resp="NJ" reason="ellipsis"/>
   <div type="textpart" subtype="poem" n="53"><milestone unit="meter" n="Phalaecean"/>
+    <head>Carmen LIII. De quodam et Calvo.</head>
 <l n="1" xml:id="c53.1">Risi nescio quem modo in corona,</l>
 <l n="2">qui, cum mirifice Vatiniana</l>
 <l n="3" xml:id="c53.3">meus crimina Calvus explicasset,</l>
 <l n="4" xml:id="c53.4">admirans ait haec, manusque tollens:</l>
-<l n="5" xml:id="c53.5">Dii magni, salaputium disertum!”</l>
+<l n="5" xml:id="c53.5">Dii magni, salaputium disertum!</l>
             <note n="vl53.1" target="#c53.1">1. E corona affert Meleager e libro Comelini, quam
               confirmat Papyr. Pal. et libri editoris Cantabrig. cui favet etiam Edit. R.
               antiquissim. ubi est: et, corona. </note>
