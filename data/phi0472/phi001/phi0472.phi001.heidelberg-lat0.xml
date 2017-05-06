@@ -12,7 +12,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
     <principal>Gregory Crane</principal>
         <respStmt>
           <resp>Selected by</resp>
-          <name ref="000000038578546X" type="isni">Neven Jovanović</name>
+          <name ref="isni000000038578546X">Neven Jovanović</name>
         </respStmt>
     <respStmt>
     <resp>Prepared under the supervision of</resp>
@@ -103,15 +103,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
 <body>
 <div type="edition" xml:lang="lat" n="urn:cts:latinLit:phi0472.phi001.heidelberg-lat0">
 <div type="textpart" subtype="Lyrics">
-<gap resp="NJ" reason="omitted"/>
+  <gap resp="NJ" reason="ellipsis"/>
   <div type="textpart" subtype="poem" n="53"><milestone unit="meter" n="Phalaecean"/>
-<l n="1">Risi nescio quem modo e corona,</l>
-<l n="2">qui, cum mirifice Vatiniana</l>
-<l n="3">meus crimina Calvus explicasset,</l>
-<l n="4">admirans ait haec manusque tollens</l>
-<l n="5">“di magni, salaputium disertum!”</l></div>
-
+<l n="1"><w>Risi</w> <w>nescio</w> <w>quem</w> <w>modo</w> <w>e</w> <w>corona</w><pc>,</pc></l>
+<l n="2"><w>qui</w><pc>,</pc> <w>cum</w> <w>mirifice</w> <w>Vatiniana</w></l>
+<l n="3"><w>meus</w> <w>crimina</w> <w>Calvus</w> <w>explicasset</w><pc>,</pc></l>
+<l n="4"><w>admirans</w> <w>ait</w> <w>haec</w> <w>manusque</w> <w>tollens</w></l>
+<l n="5"><pc>“</pc><w>di</w> <w>magni</w><pc>,</pc> <w>salaputium</w> <w>disertum</w><pc>!</pc><pc>”</pc></l></div>
+  <gap resp="NJ" reason="ellipsis"/>
 </div>
-
+  <gap resp="NJ" reason="ellipsis"/>
 </div>
 </body></text></TEI>
