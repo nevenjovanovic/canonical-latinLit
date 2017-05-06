@@ -12,7 +12,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
     <principal>Gregory Crane</principal>
         <respStmt>
           <resp>Selected by</resp>
-          <name ref="000000038578546X" type="isni">Neven Jovanović</name>
+          <name ref="isni000000038578546X">Neven Jovanović</name>
         </respStmt>
     <respStmt>
     <resp>Prepared under the supervision of</resp>
