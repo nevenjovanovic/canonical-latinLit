@@ -109,21 +109,21 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
 <div type="edition" xml:lang="lat" n="urn:cts:latinLit:phi0472.phi001.heidelberg-lat1">
 <div type="textpart" subtype="Lyrics">
   <gap resp="NJ" reason="ellipsis"/>
-  <div type="textpart" subtype="poem" n="53"><milestone unit="meter" n="Phalaecean"/>
+  <div type="textpart" subtype="poem" n="53" xml:id="c53"><milestone unit="meter" n="Phalaecean"/>
     <head>Carmen LIII. De quodam et Calvo.</head>
 <l n="1" xml:id="c53.1">Risi nescio quem modo in corona,</l>
 <l n="2">qui, cum mirifice Vatiniana</l>
 <l n="3" xml:id="c53.3">meus crimina Calvus explicasset,</l>
 <l n="4" xml:id="c53.4">admirans ait haec, manusque tollens:</l>
 <l n="5" xml:id="c53.5">Dii magni, salaputium disertum!</l>
-            <note n="vl53.1" target="#c53.1">1. E corona affert Meleager e libro Comelini, quam
-              confirmat Papyr. Pal. et libri editoris Cantabrig. cui favet etiam Edit. R.
-              antiquissim. ubi est: et, corona. </note>
+            <note n="vl53.1" target="#c53.1">1. E corona affert <ref>Meleager e libro Comelini</ref>, quam
+              confirmat <ref>Papyr. Pal.</ref> et <ref>libri editoris Cantabrig.</ref> cui favet etiam <ref>Edit. R.
+              antiquissim.</ref> ubi est: et, corona. </note>
             <note n="vl53.2" target="#c53.5">5. Alii saluputium, vel saliputium, vel salapusium, vel
               sapientium, vel salapichium, vel solopugium, vel salicippium, vel sallicippium, vel
               salapantium, vel holopachium, vel ascolapation, vel colabotion, vel - ohe ! sat prata
               biberunt! tollite manus et admiramini diserta criticorum salaputia!!! </note>
-            <note n="com53.0">Ridendi causam dederat Catullo quidam ex populo, qui Calvum, audita
+            <note n="com53.0" target="#c53">Ridendi causam dederat Catullo quidam ex populo, qui Calvum, audita
               ejus multa vi et arte in Vatinii crimina habita oratione, disertum Salaputium
               vocarat.</note> 
             <note n="com53.1" target="#c53.1"> 1. Corona est circulus hominum, qui judicium in foro audiendi causa
